@@ -63,7 +63,7 @@ const Footer = () => {
                   Subscribe
                 </button>
               </div>
-            </div>
+        
           </div>
         </div>
 
